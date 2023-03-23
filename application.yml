@@ -2,8 +2,3 @@ my:
   greeting: yess
   list:
     values: One, Two, Three, Four, Five
-
-db:
-  connection1: yesy2
-  host: 127.0.0.1
-  port: 1200 
