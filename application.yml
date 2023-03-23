@@ -1,9 +1,9 @@
 my:
-  greeting: awedi ghir sket glnalk safi
+  greeting: yess
   list:
     values: One, Two, Three, Four, Five
 
 db:
-  connection: kayn a3chiri 
+  connection: yesy2
   host: 127.0.0.1
   port: 1200 
