@@ -1,4 +1,2 @@
-my:
-  greeting: yess
-  list:
+list:
     values: One, Two, Three, Four, Five
