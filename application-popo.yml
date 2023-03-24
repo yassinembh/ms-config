@@ -1,6 +1,6 @@
 
 my:
-  greeting: hello
+  greeting: holla
 db:
   connection: yesy2
   host: 127.0.0.1
